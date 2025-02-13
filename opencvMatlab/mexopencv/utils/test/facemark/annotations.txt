@@ -1,2 +1,0 @@
-C:\Users\Amro\Desktop\mexopencv\test\facemark\david1.pts
-C:\Users\Amro\Desktop\mexopencv\test\facemark\david2.pts
